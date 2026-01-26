@@ -1,2 +1,0 @@
-# project
-My first repo
